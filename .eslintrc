@@ -1,0 +1,20 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "node": true
+    },
+    "extends": "google",
+    "rules": {
+        "semi": ["warn", "always"],
+        "quotes": ["warn", "double"],
+
+        //extended rules from google configuration
+        "linebreak-style": 0,
+        "spaced-comment": 0,
+        "no-var": 1,
+        "no-unused-vars": 1,
+        "require-jsdoc": 0,
+        "space-before-blocks": 0
+    }
+  }

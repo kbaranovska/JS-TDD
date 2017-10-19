@@ -1,0 +1,9 @@
+Navigation list:
+- Implement ability of adding option for two numbers
+- Add support of decrease operation
+- Add support of divide operation
+- Add rule for dividing
+- Add support of multiply operation
+- Add support of exponentiation operation
+- Passed empty string returns 0
+- Incorrect operation returns Nan
